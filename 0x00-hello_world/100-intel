@@ -1,3 +1,2 @@
 #!/bin/bash
 gcc -S -masm=intel $CFILE
-(don't forget chmod +x)
